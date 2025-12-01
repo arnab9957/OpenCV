@@ -391,4 +391,4 @@ Feel free to:
 
 **Happy Coding! 🎉**
 
-For questions or issues, refer to the [Troubleshooting](#troubleshooting) section or OpenCV documentation.
+Explore the fascinating world of computer vision with OpenCV!
